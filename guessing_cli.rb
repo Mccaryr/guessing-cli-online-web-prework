@@ -11,6 +11,6 @@ def run_guessing_game
       puts "Goodbye!"
       exit()
     else
-      puts "The computer guessed #{r}"
+      # puts "The computer guessed #{r}"
     end
   end
